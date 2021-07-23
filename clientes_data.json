@@ -1,0 +1,84 @@
+[
+  {
+    "model": "api.Clientes",
+    "pk": 1,
+    "fields": {
+      "rut": "18620855-1",
+      "name": "Angel Serrano"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 2,
+    "fields": {
+      "rut": "11345435-2",
+      "name": "Roser Abreu"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 3,
+    "fields": {
+      "rut": "14256777-k",
+      "name": "Rosa Campos"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 4,
+    "fields": {
+      "rut": "12675688-0",
+      "name": "Celestino Fuentes"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 5,
+    "fields": {
+      "rut": "14234334-4",
+      "name": "Rebeca Rojas"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 6,
+    "fields": {
+      "rut": "10152323-8",
+      "name": "Andrea Palomo"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 7,
+    "fields": {
+      "rut": "15587715-4",
+      "name": "Maria Inmaculada Jiménez"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 8,
+    "fields": {
+      "rut": "15034590-7",
+      "name": "Marcela Navarro"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 9,
+    "fields": {
+      "rut": "11804345-3",
+      "name": "Francisco Manuel Gago"
+    }
+  },
+  {
+    "model": "api.Clientes",
+    "pk": 10,
+    "fields": {
+      "rut": "13804238-0",
+      "name": "Patricio Duran"
+    }
+  }
+]
+
+

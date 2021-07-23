@@ -1,0 +1,23 @@
+[
+  {
+    "model": "api.Empresas",
+    "pk": 1,
+    "fields": {
+      "name": "CHILE ARRIENDA AUTOS S.A"
+    }
+  },
+  {
+    "model": "api.Empresas",
+    "pk": 2,
+    "fields": {
+      "name": "AUTOK S.A"
+    }
+  },
+  {
+    "model": "api.Empresas",
+    "pk": 3,
+    "fields": {
+      "name": "RENT A CAR S.A"
+    }
+  }
+]
